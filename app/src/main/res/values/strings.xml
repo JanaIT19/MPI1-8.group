@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="main_description">This is the first application from Group 8:</string>
+    <string name="surname_1">Andra Metrina 1</string>
+    <string name="surname_2">Voldemars Rava 2</string>
+    <string name="surname_3">Jana Priedite 3</string>
+    <string name="developed_by">And the application was developed by Jana Priedite.</string>
+
+</resources>
