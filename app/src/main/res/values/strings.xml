@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">PD1</string>
 
+    <string name="tittle">Grupa Nr.8</string>
+
     <string name="group_user_1">Jana Priedīte</string>
 
     <string name="group_user_2">Andra Mētriņa</string>

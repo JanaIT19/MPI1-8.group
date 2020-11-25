@@ -1651,6 +1651,7 @@ id textSpacerNoTitle
 id textStart
 id textView
 id textView2
+id textView3
 id textView4
 id textView5
 id text_input_end_icon
@@ -1896,6 +1897,7 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
+string tittle
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
