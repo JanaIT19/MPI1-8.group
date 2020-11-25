@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PD1</string>
+
+    <string name="group_user_1">Jana Priedīte</string>
+
+    <string name="group_user_2">Andra Mētriņa</string>
+
+    <string name="group_user_3">Voldemārs Rava</string>
+
+    <string name="creator">Izveidoja: Voldemārs Rava</string>
+</resources>

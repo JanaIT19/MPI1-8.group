@@ -1,0 +1,4 @@
+lv/voldins/pd1/MainActivity.java
+ lv.voldins.pd1.MainActivity
+lv/voldins/pd1/BuildConfig.java
+ lv.voldins.pd1.BuildConfig
